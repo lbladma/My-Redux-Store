@@ -1,94 +1,3 @@
-<b><h1 align="center">Redux-Store</h1> </b>
-  
-
-
-## Table of Contents
-#
-
-- [Summary](#Summary)
-- [Functionality](#functionality)
-- [Technologies](#technologies)
-- [Links](#links)
-#
-#
-## Summary 
-#
-This app is based on using  Redux to manage global state instead of the Context API
-so that the website's state management is taken out of the React ecosystem.
-This assignment allows me to practice a skill that I'll use many times over the course of your career.
-<br>
-This project is an example of how Web developers immerse themselves in a new technology to solve a problem, with only that tool’s documentation for help. They must sift through it to find the information that matches the specific problem they’re trying to solve. 
-<br>
-In this app,  the user can register on the Signup page and then navigates to the Products page, which displays images and descriptions of products.
-The user can select a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.
-The user aslo can check out by going to their shopping cart and if the cart is empty, the user will get a message stating so. 
-
-#
-#
-
-
-#
-## Functionality:
-#
-This section shows the web application's general appearance and functionality.
-
-The following animation shows how a user can register using the Signup page and then navigate to the Products page:
-
-![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](/client/public/assets/images/image1.gif) 
-
-The following animation shows how the user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart:
-
-![The user selects a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.](/client/public/assets/images/image2.gif)
-
-Finally, the user can check out by going to their shopping cart, as shown in the following animation:
-
-![The user checks out by going to their shopping cart.](/client/public/assets/images/image3.gif)
-
-<br>
-
-#
-#
-<br>
-
-## Technologies
-<img align="left" width="26px" alt="CSS" src="images\css.png">
-<img align="left" width="26px" alt="HTML" src="images\html.png">
-<img align="left" width="26px" alt="Node" src="images\node.png">
-<img align="left" width="26px" alt="JS" src="images\JS.png">
-<img align="left" width="26px" alt="Github" src="images\github.png">
-<img align="left" width="26px" alt="Jquery" src="images\jquery.png">
-<img align="left" width="26px" alt="Express" src="./images\express.png">
-<img align="left" width="26px" alt="Materialiaze" src="./images\materialize.png">
-<img align="left" width="26px" alt="VSCode" src="./images\vscode.png">
-<img align="left" width="26px" alt="REACT" src="./images\react.png">
-<img align="left" width="26px" alt="REDUX" src="./images\redux.png">
-<img align="left" width="26px" alt="MongoDB" src="./images\mongo.png">
-<img align="left" width="26px" alt="NodeJS" src="./images\node-js.png">
-<img align="left" width="26px" alt="BS" src="./images\bootstrap.png">
-<img align="left" width="26px" alt="API" src="./images\api.png">
-
-<br><br>
-
-#
-#
-
-
-## Links 
-This is the link to the live site on [Heroku](https://mighty-cliffs-94022.herokuapp.com/)
-
-This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Redux-Store)
-#
-
- [<img alt="LinkedIn" src="./images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
-
-
-
-#
-#
-#
-#
-#
-#
 # 22 State Homework: Redux Store
 
 ## Your Task
@@ -130,15 +39,15 @@ This section reviews the web application's general appearance and functionality.
 
 The following animation shows how a user can register using the Signup page and then navigate to the Products page:
 
-![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](/client/public/assets/images/image1.gif) 
+![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](./Assets/22-state-homework-demo-01.gif) 
 
 The following animation shows how the user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart:
 
-![The user selects a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.](/client/public/assets/images/image2.gif)
+![The user selects a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.](./Assets/22-state-homework-demo-02.gif)
 
 Finally, the user can check out by going to their shopping cart, as shown in the following animation:
 
-![The user checks out by going to their shopping cart.](/client/public/assets/images/image3.gif)
+![The user checks out by going to their shopping cart.](./Assets/22-state-homework-demo-03.gif)
 
 ## Getting Started
 
