@@ -78,7 +78,7 @@ This is the link to the live site on [Heroku](https://mighty-cliffs-94022.heroku
 
 This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Redux-Store)
 #
-
+## LinkedIn 
  [<img alt="LinkedIn" src="./images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
 
 
