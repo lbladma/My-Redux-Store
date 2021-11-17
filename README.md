@@ -6,9 +6,9 @@
 #
 
 - [Summary](#Summary)
+- [Functionality](#functionality)
 - [Technologies](#technologies)
 - [Links](#links)
-- [LinkedIn](#linkedIn)
 #
 #
 ## Summary 
@@ -28,7 +28,21 @@ The user aslo can check out by going to their shopping cart and if the cart is e
 
 
 #
+## Functionality:
+#
+This section shows the web application's general appearance and functionality.
 
+The following animation shows how a user can register using the Signup page and then navigate to the Products page:
+
+![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](images/image1.gif) 
+
+The following animation shows how the user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart:
+
+![The user selects a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.](images/image2.gif)
+
+Finally, the user can check out by going to their shopping cart, as shown in the following animation:
+
+![The user checks out by going to their shopping cart.](images/image3.gif)
 
 <br>
 
@@ -65,8 +79,6 @@ This is the link to the live site on [Heroku](https://mighty-cliffs-94022.heroku
 This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Redux-Store)
 #
 
-## LinkedIn
- 
  [<img alt="LinkedIn" src="./images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
 
 
